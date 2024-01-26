@@ -24,7 +24,7 @@ FIELDS = (
     "StructName",
     "Volume_mm3",
     "SurfArea",
-    "GreyVol",
+    "GrayVol",
     "ThickAvg",
     "ThickStd",
     "FoldInd",
